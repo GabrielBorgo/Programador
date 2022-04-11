@@ -1,0 +1,8 @@
+bananas
+manzanas
+huevos
+galletitas
+carne
+dulces
+salado
+pimienta
