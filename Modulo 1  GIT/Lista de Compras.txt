@@ -6,3 +6,6 @@ carne
 dulces
 salado
 pimienta
+sal
+frutillas
+papitas
